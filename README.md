@@ -23,12 +23,3 @@ Shiftable，是我們專題的名稱，這個字是將Shift和Table結合，shif
 
 ![image](https://github.com/Shiftable/shiftable/blob/master/res/%E6%93%B7%E5%8F%96.PNG)
 
-
-# This is an H1
-
-## This is an H2
-
-### This is an H6
-
-
-
