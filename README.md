@@ -12,7 +12,7 @@ Shiftable，是我們專題的名稱，這個字是將Shift和Table結合，shif
 
 ## 結構設計
 
-利用 modo 製作出方塊3D模型，再使用3D Printer將方塊列印出來，再將方塊、伺服馬達組合，arduino mega板作為輸出
+利用 modo 製作出方塊3D模型，再使用3D Printer將方塊列印出來，再將方塊、伺服馬達組合，arduino mega板作為輸出。下圖為機構組成圖。
 
 ![image](https://github.com/Shiftable/shiftable/blob/master/res/2.PNG)
 ## Beta版呈現
@@ -23,4 +23,5 @@ Shiftable，是我們專題的名稱，這個字是將Shift和Table結合，shif
 ## 正式版
 
 由3x5的方塊陣列組成，能夠辨視音樂的高低頻率，並產生不同的動作。
+
 ![image](https://github.com/Shiftable/shiftable/blob/master/res/3654.jpg)
